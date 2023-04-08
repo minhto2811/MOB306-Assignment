@@ -1,0 +1,68 @@
+{
+  "Classes": [
+    {
+      "name": "CP17301",
+      "id": 1
+    },
+    {
+      "name": "CP17302",
+      "id": 2
+    },
+    {
+      "name": "jjjjjjjjjjjjjjjj",
+      "id": 3
+    }
+  ],
+  "Students": [
+    {
+      "name": "nguyen van a",
+      "email": "adfg@gmail.com",
+      "idClass": 1,
+      "id": 1
+    },
+    {
+      "name": "nguyen v",
+      "email": "ghuyutrhe",
+      "idClass": 1,
+      "id": 2
+    },
+    {
+      "name": "nam",
+      "email": "gg",
+      "idClass": 2,
+      "id": 3
+    },
+    {
+      "name": "hhhhhhhhhhhhhhhhhhh",
+      "email": "ggggggggggggg",
+      "idClass": 3,
+      "id": 4
+    }
+  ],
+  "accounts": [
+    {
+      "id": 0,
+      "user": "admin",
+      "pass": "admin",
+      "name": "Nguyễn Văn A"
+    },
+    {
+      "id": 1,
+      "user": "minh1",
+      "pass": "123456",
+      "name": "Phạm Huy Hoàng"
+    },
+    {
+      "id": 2,
+      "user": "longnghin",
+      "pass": "hyu7789",
+      "name": "Phạm Huy Hoàng"
+    },
+    {
+      "user": "aaaaaaaa",
+      "pass": "aaaaaaa",
+      "name": "aaaaaaaaa",
+      "id": 3
+    }
+  ]
+}
